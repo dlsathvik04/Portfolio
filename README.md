@@ -1,16 +1,5 @@
-# portfolio
+# Portfolio
 
-A new Flutter project.
+<img src="./readme_assets/preview_light.png">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This repo is the source code of my portfolio site <a href= "dlsathvik04.github.io">dlsathvik04.github.io</a>.
